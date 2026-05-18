@@ -1,5 +1,5 @@
 # Mi proyecto web
 **Alumno**: Vladimir Ortiz Ochoa
 **Color favorito**: Rojo
-**Apodo**:  Vladi
+**Apodo**: Vladi
 **Manga Favorito**: Magi
