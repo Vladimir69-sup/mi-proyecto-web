@@ -46,9 +46,9 @@ Algo sobre mí : Me encantan las películas y el jazz, es por ello que La La Lan
 **Qué hacer:** Escribe tres cosas concretas que aprendiste en esta sesión.  
 **Commit:** `docs(aprendizaje): agrega notas de la sesión`
 
-1. 
-2. 
-3. 
+1. Aprendí la historia detrás de la creación de Git por parte de Linus Torvalds
+2. Apredí las diferencias, funcionamientos y diferencias de Git, GitHub y GitLab
+3. Aprendí como crear un repositorio y como subir un archivo a tal repositorio.
 
 ---
 
