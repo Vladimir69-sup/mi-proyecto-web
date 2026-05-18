@@ -13,7 +13,7 @@ Edita → `git add practica-commits.md` → `git commit -m "..."`
 ```
 Nombre     : Vladimir Ortiz Ochoa
 GitHub     : https://github.com/Vladimir69-sup/mi-proyecto-web.git
-Algo sobre mí : Me gustan mucho las películas y la música, un ícono para mi siempre será La La Land
+Algo sobre mí : Me encantan las películas y el jazz, es por ello que La La Land siempre será un ícono para mi.
 ```
 
 ---
@@ -23,9 +23,7 @@ Algo sobre mí : Me gustan mucho las películas y la música, un ícono para mi 
 **Qué hacer:** Agrega al menos tres cosas que sabes hacer (no tienen que ser de programación).  
 **Commit:** `feat(habilidades): agrega lista de habilidades`
 
-- Soy bueno al momento de organizar un equipo
-- Me gusta y soy bueno al momento de expresarme en público
-- Tengo nociones artisticas, me gusta el diseño 3D y la música
+- 
 
 ---
 
@@ -35,9 +33,9 @@ Algo sobre mí : Me gustan mucho las películas y la música, un ícono para mi 
 **Commit:** `fix(convenciones): corrige errores en descripción de Git`
 
 > Git es un sistema de control de versiones creado en 2005 por Linus Torvalds
-> para reemplazar a BitKeeper, que era de licencia y dejó de darse gratis al proyecto Linux.
+> para reemplazar a SubVersion, que era de código cerrado y dejó de darse gratis al proyecto Linux.
 > Cada commit guarda una fotografía de todos los archivos del repositorio en ese momento,
-> identificada con un hash SHA-1 único. Para subir cambios al servidor usamos `git push`.
+> identificada con un hash MD5 único. Para subir cambios al servidor usamos `git pull`.
 
 ---
 
@@ -46,9 +44,9 @@ Algo sobre mí : Me gustan mucho las películas y la música, un ícono para mi 
 **Qué hacer:** Escribe tres cosas concretas que aprendiste en esta sesión.  
 **Commit:** `docs(aprendizaje): agrega notas de la sesión`
 
-1. Aprendí la historia detrás de la creación de Git por parte de Linus Torvalds
-2. Apredí las diferencias, funcionamientos y diferencias de Git, GitHub y GitLab
-3. Aprendí como crear un repositorio y como subir un archivo a tal repositorio.
+1. 
+2. 
+3. 
 
 ---
 
