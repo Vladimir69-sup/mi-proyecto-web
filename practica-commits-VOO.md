@@ -23,7 +23,9 @@ Algo sobre mí : Me encantan las películas y el jazz, es por ello que La La Lan
 **Qué hacer:** Agrega al menos tres cosas que sabes hacer (no tienen que ser de programación).  
 **Commit:** `feat(habilidades): agrega lista de habilidades`
 
-- 
+- Soy bueno al momento de organizar un equipo
+- Me gusta y soy bueno al momento de expresarme en público
+- Tengo nociones artisticas, me gusta el diseño 3D y la música
 
 ---
 
