@@ -59,12 +59,12 @@ Algo sobre mí : Me encantan las películas y el jazz, es por ello que La La Lan
 
 | Comando | ¿Qué hace? |
 |---------|------------|
-| `git init` | |
-| `git status` | |
-| `git add .` | |
-| `git commit -m "..."` | |
-| `git log --oneline` | |
-| `git push` | |
+| `git init` |Inicializa el repositorio|
+| `git status` |Otorga la información respectiva al estado de los archivos localizados en el repositorio. Principalmente nos indican los archivos que han sufrido modificaciones y que aún no han sido registrados|
+| `git add .` |Rastrea de manera específica un archivo, hace pasar de working phase a staging phase|
+| `git commit -m "..."` |Guarda todos los cambios realizados en el archivo. Se ocupa siguiendo una regla concreta que permita distinguir de manera eficaz el tipo de cambio que haya sido realizado|
+| `git log --oneline` |Nos da el historial de commits utilizando una sola linea para cada uno de ellos|
+| `git push` |Manda los archivos y sus commit de nuestro repositorio remoto al localizado en la nube en GitHub|
 
 ---
 
