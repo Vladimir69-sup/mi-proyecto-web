@@ -3,3 +3,4 @@
 **Color favorito**: Cyan
 **Apodo**: Vladi
 **Manga Favorito**: Magi
+Trlalall
